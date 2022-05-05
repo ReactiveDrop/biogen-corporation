@@ -1,0 +1,9 @@
+# Source Engine
+*.bsp
+*.log
+*.prt
+*.vmx
+
+# Local Development Map
+source/maps/dev.vmf
+source/maps/dev/**

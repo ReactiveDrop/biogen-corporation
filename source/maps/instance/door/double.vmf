@@ -1,0 +1,264 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "7397"
+	"mapversion" "18"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "8"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "18"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "blacksky"
+}
+entity
+{
+	"id" "3"
+	"classname" "asw_door"
+	"angles" "0 90 0"
+	"autoopen" "0"
+	"CanCloseToWeld" "1"
+	"CanPlayerWeld" "0"
+	"currentsealtime" "0"
+	"dentamount" "0"
+	"distance" "62"
+	"dmg" "0"
+	"DoAutoShootChatter" "0"
+	"DoBreachedShout" "1"
+	"DoCutShout" "0"
+	"doortype" "2"
+	"forceclosed" "1"
+	"model" "models/props/doors/heavy_doors/doorleft.mdl"
+	"parentname" "door_left"
+	"rendercolor" "$color"
+	"returndelay" "-1"
+	"showsonscanner" "1"
+	"skin" "0"
+	"slideangle" "0 90 0"
+	"soundcloseoverride" "ASW_Door.Door2StopClose"
+	"soundmoveoverride" "ASW_Door.Door2Open"
+	"spawnflags" "0"
+	"spawnpos" "1"
+	"speed" "$speed"
+	"targetname" "door_left"
+	"totalsealtime" "10"
+	"origin" "-61 16.5386 -1"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "26"
+	"classname" "asw_door"
+	"angles" "0 90 0"
+	"autoopen" "0"
+	"CanCloseToWeld" "1"
+	"CanPlayerWeld" "0"
+	"currentsealtime" "0"
+	"dentamount" "0"
+	"distance" "62"
+	"dmg" "0"
+	"DoAutoShootChatter" "0"
+	"DoBreachedShout" "1"
+	"DoCutShout" "0"
+	"doortype" "2"
+	"forceclosed" "1"
+	"model" "models/props/doors/heavy_doors/doorright.mdl"
+	"parentname" "door_right"
+	"rendercolor" "$color"
+	"returndelay" "-1"
+	"showsonscanner" "1"
+	"skin" "0"
+	"slideangle" "0 -90 0"
+	"soundcloseoverride" "ASW_Door.Door2StopClose"
+	"soundmoveoverride" "ASW_Door.Door2Open"
+	"spawnflags" "0"
+	"spawnpos" "1"
+	"speed" "$speed"
+	"targetname" "door_right"
+	"totalsealtime" "10"
+	connections
+	{
+		"OnFullyOpen" "link_controllerTurnOn0-1"
+		"OnFullyClosed" "link_controllerTurnOff0-1"
+		"OnFullyClosed" "on_fully_closedTrigger0-1"
+		"OnOpen" "on_openTrigger0-1"
+	}
+	"origin" "60.6071 16 -1"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "432"
+	"classname" "func_instance_parms"
+	"parm1" "$color color255 128 191 64"
+	"parm2" "$speed integer 128"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "462"
+	"classname" "logic_relay"
+	"targetname" "open"
+	connections
+	{
+		"OnTrigger" "door_leftOpen0-1"
+		"OnTrigger" "door_rightOpen0-1"
+	}
+	"origin" "-40 16 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "472"
+	"classname" "logic_relay"
+	"targetname" "close"
+	connections
+	{
+		"OnTrigger" "door_rightClose0-1"
+		"OnTrigger" "door_leftClose0-1"
+	}
+	"origin" "-56 16 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "482"
+	"classname" "func_instance_io_proxy"
+	"targetname" "io"
+	"origin" "0 16 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4500]"
+	}
+}
+entity
+{
+	"id" "495"
+	"classname" "logic_relay"
+	"targetname" "on_open"
+	connections
+	{
+		"OnTrigger" "ioProxyRelay0-1"
+	}
+	"origin" "48 16 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "519"
+	"classname" "logic_relay"
+	"targetname" "on_fully_closed"
+	connections
+	{
+		"OnTrigger" "ioProxyRelay0-1"
+	}
+	"origin" "32 16 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "561"
+	"classname" "logic_relay"
+	"targetname" "toggle"
+	connections
+	{
+		"OnTrigger" "door_leftToggle0-1"
+		"OnTrigger" "door_rightToggle0-1"
+	}
+	"origin" "-24 16 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "589"
+	"classname" "info_node_link_controller"
+	"initialstate" "1"
+	"maxs" "64 8 160"
+	"mins" "-64 -8 0"
+	"nodeid" "1"
+	"targetname" "link_controller"
+	"origin" "0 16 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}
