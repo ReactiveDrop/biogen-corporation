@@ -28782,7 +28782,7 @@ entity
 	"id" "34032"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "-448 640 0"
 	editor
 	{
@@ -28797,7 +28797,7 @@ entity
 	"id" "34066"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "-320 640 0"
 	editor
 	{
@@ -28812,7 +28812,7 @@ entity
 	"id" "34078"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "-192 640 0"
 	editor
 	{
@@ -28827,7 +28827,7 @@ entity
 	"id" "34081"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "-64 640 0"
 	editor
 	{
@@ -28842,7 +28842,7 @@ entity
 	"id" "34084"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "64 640 0"
 	editor
 	{
@@ -28857,7 +28857,7 @@ entity
 	"id" "34087"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "192 640 0"
 	editor
 	{
@@ -28872,7 +28872,7 @@ entity
 	"id" "34090"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "320 640 0"
 	editor
 	{
@@ -28887,7 +28887,7 @@ entity
 	"id" "34093"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab/window/128"
+	"file" "rd-bio3-biogen_labs/freezer_lab/window/128"
 	"origin" "448 640 0"
 	editor
 	{

@@ -12599,7 +12599,7 @@ entity
 	"id" "10613"
 	"classname" "func_instance"
 	"angles" "-0 72.5 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_6"
 	connections
 	{
@@ -12620,7 +12620,7 @@ entity
 	"id" "11017"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_7"
 	connections
 	{
@@ -12641,7 +12641,7 @@ entity
 	"id" "10957"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_5"
 	connections
 	{
@@ -12662,7 +12662,7 @@ entity
 	"id" "10661"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_4"
 	connections
 	{
@@ -12683,7 +12683,7 @@ entity
 	"id" "11233"
 	"classname" "func_instance"
 	"angles" "-0 -109.5 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_3"
 	connections
 	{
@@ -12704,7 +12704,7 @@ entity
 	"id" "10861"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_2"
 	connections
 	{
@@ -12725,7 +12725,7 @@ entity
 	"id" "8319"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_1"
 	connections
 	{
@@ -12746,7 +12746,7 @@ entity
 	"id" "10445"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_8"
 	connections
 	{
@@ -12767,7 +12767,7 @@ entity
 	"id" "10385"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_9"
 	connections
 	{
@@ -12788,7 +12788,7 @@ entity
 	"id" "10409"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_10"
 	connections
 	{
@@ -12809,7 +12809,7 @@ entity
 	"id" "10697"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_11"
 	connections
 	{
@@ -12830,7 +12830,7 @@ entity
 	"id" "10733"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_12"
 	connections
 	{
@@ -12851,7 +12851,7 @@ entity
 	"id" "10493"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_13"
 	connections
 	{
@@ -12872,7 +12872,7 @@ entity
 	"id" "10529"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_14"
 	connections
 	{
@@ -12893,7 +12893,7 @@ entity
 	"id" "10805"
 	"classname" "func_instance"
 	"angles" "-0 -13.5 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_28"
 	connections
 	{
@@ -12914,7 +12914,7 @@ entity
 	"id" "10817"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_29"
 	connections
 	{
@@ -12935,7 +12935,7 @@ entity
 	"id" "10829"
 	"classname" "func_instance"
 	"angles" "-0 6.5 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_30"
 	connections
 	{
@@ -12956,7 +12956,7 @@ entity
 	"id" "10793"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_27"
 	connections
 	{
@@ -12977,7 +12977,7 @@ entity
 	"id" "10769"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_26"
 	connections
 	{
@@ -12998,7 +12998,7 @@ entity
 	"id" "11089"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_25"
 	connections
 	{
@@ -13019,7 +13019,7 @@ entity
 	"id" "10565"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_24"
 	connections
 	{
@@ -13040,7 +13040,7 @@ entity
 	"id" "11185"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_23"
 	connections
 	{
@@ -13061,7 +13061,7 @@ entity
 	"id" "10921"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_22"
 	connections
 	{
@@ -13082,7 +13082,7 @@ entity
 	"id" "11137"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_21"
 	connections
 	{
@@ -13103,7 +13103,7 @@ entity
 	"id" "11449"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_17"
 	connections
 	{
@@ -13124,7 +13124,7 @@ entity
 	"id" "11401"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_16"
 	connections
 	{
@@ -13145,7 +13145,7 @@ entity
 	"id" "11305"
 	"classname" "func_instance"
 	"angles" "-0 104 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_19"
 	connections
 	{
@@ -13166,7 +13166,7 @@ entity
 	"id" "11341"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_20"
 	connections
 	{
@@ -13187,7 +13187,7 @@ entity
 	"id" "11269"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_18"
 	connections
 	{
@@ -13208,7 +13208,7 @@ entity
 	"id" "11053"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/computer"
+	"file" "rd-bio3-biogen_labs/office/computer"
 	"targetname" "pc_15"
 	connections
 	{
@@ -13376,7 +13376,7 @@ entity
 	"id" "5667"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/standard"
+	"file" "rd-bio3-biogen_labs/office/divider/standard"
 	"origin" "192 448 0"
 	editor
 	{
@@ -13391,7 +13391,7 @@ entity
 	"id" "5689"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "-128 512 0"
 	editor
 	{
@@ -13406,7 +13406,7 @@ entity
 	"id" "5699"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "0 512 0"
 	editor
 	{
@@ -13421,7 +13421,7 @@ entity
 	"id" "5706"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "128 896 0"
 	editor
 	{
@@ -13436,7 +13436,7 @@ entity
 	"id" "5833"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "64 576 0"
 	editor
 	{
@@ -13451,7 +13451,7 @@ entity
 	"id" "5920"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "0 768 0"
 	editor
 	{
@@ -13466,7 +13466,7 @@ entity
 	"id" "5953"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "64 704 0"
 	editor
 	{
@@ -13481,7 +13481,7 @@ entity
 	"id" "6004"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "-128 896 0"
 	editor
 	{
@@ -13496,7 +13496,7 @@ entity
 	"id" "6028"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "192 960 0"
 	editor
 	{
@@ -13511,7 +13511,7 @@ entity
 	"id" "6046"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "320 960 0"
 	editor
 	{
@@ -13526,7 +13526,7 @@ entity
 	"id" "6058"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "448 960 0"
 	editor
 	{
@@ -13541,7 +13541,7 @@ entity
 	"id" "6064"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "576 960 0"
 	editor
 	{
@@ -13556,7 +13556,7 @@ entity
 	"id" "6070"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "704 960 0"
 	editor
 	{
@@ -13571,7 +13571,7 @@ entity
 	"id" "6076"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "832 960 0"
 	editor
 	{
@@ -13586,7 +13586,7 @@ entity
 	"id" "6088"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "256 384 0"
 	editor
 	{
@@ -13601,7 +13601,7 @@ entity
 	"id" "6118"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "384 384 0"
 	editor
 	{
@@ -13616,7 +13616,7 @@ entity
 	"id" "6166"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "256 640 0"
 	editor
 	{
@@ -13631,7 +13631,7 @@ entity
 	"id" "6184"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "384 640 0"
 	editor
 	{
@@ -13646,7 +13646,7 @@ entity
 	"id" "6190"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "448 576 0"
 	editor
 	{
@@ -13661,7 +13661,7 @@ entity
 	"id" "6205"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "576 448 0"
 	editor
 	{
@@ -13676,7 +13676,7 @@ entity
 	"id" "6220"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "448 704 0"
 	editor
 	{
@@ -13691,7 +13691,7 @@ entity
 	"id" "6226"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/standard"
+	"file" "rd-bio3-biogen_labs/office/divider/standard"
 	"origin" "448 448 0"
 	editor
 	{
@@ -13706,7 +13706,7 @@ entity
 	"id" "6238"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "320 704 0"
 	editor
 	{
@@ -13721,7 +13721,7 @@ entity
 	"id" "6247"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "192 704 0"
 	editor
 	{
@@ -13736,7 +13736,7 @@ entity
 	"id" "6253"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "704 448 0"
 	editor
 	{
@@ -13751,7 +13751,7 @@ entity
 	"id" "6274"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "768 768 0"
 	editor
 	{
@@ -13766,7 +13766,7 @@ entity
 	"id" "6280"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "512 512 0"
 	editor
 	{
@@ -13781,7 +13781,7 @@ entity
 	"id" "6292"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "896 384 0"
 	editor
 	{
@@ -13796,7 +13796,7 @@ entity
 	"id" "6316"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/standard"
+	"file" "rd-bio3-biogen_labs/office/divider/standard"
 	"origin" "960 448 0"
 	editor
 	{
@@ -13811,7 +13811,7 @@ entity
 	"id" "6355"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "960 576 0"
 	editor
 	{
@@ -13826,7 +13826,7 @@ entity
 	"id" "6397"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "896 640 0"
 	editor
 	{
@@ -13841,7 +13841,7 @@ entity
 	"id" "6433"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "768 640 0"
 	editor
 	{
@@ -13856,7 +13856,7 @@ entity
 	"id" "6439"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "704 576 0"
 	editor
 	{
@@ -13871,7 +13871,7 @@ entity
 	"id" "6451"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "640 512 0"
 	editor
 	{
@@ -13886,7 +13886,7 @@ entity
 	"id" "6457"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "512 768 0"
 	editor
 	{
@@ -13901,7 +13901,7 @@ entity
 	"id" "6490"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "512 640 0"
 	editor
 	{
@@ -13916,7 +13916,7 @@ entity
 	"id" "6502"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "832 704 0"
 	editor
 	{
@@ -13931,7 +13931,7 @@ entity
 	"id" "6511"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/standard"
+	"file" "rd-bio3-biogen_labs/office/divider/standard"
 	"origin" "192 192 0"
 	editor
 	{
@@ -13946,7 +13946,7 @@ entity
 	"id" "6523"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "384 256 0"
 	editor
 	{
@@ -13961,7 +13961,7 @@ entity
 	"id" "6526"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "512 256 0"
 	editor
 	{
@@ -13976,7 +13976,7 @@ entity
 	"id" "6571"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/left"
+	"file" "rd-bio3-biogen_labs/office/divider/left"
 	"origin" "768 256 0"
 	editor
 	{
@@ -13991,7 +13991,7 @@ entity
 	"id" "6574"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/office/divider/right"
+	"file" "rd-bio3-biogen_labs/office/divider/right"
 	"origin" "896 256 0"
 	editor
 	{
@@ -14006,7 +14006,7 @@ entity
 	"id" "6607"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "832 192 0"
 	editor
 	{
@@ -14021,7 +14021,7 @@ entity
 	"id" "6673"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "448 192 0"
 	editor
 	{
@@ -14036,7 +14036,7 @@ entity
 	"id" "6691"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/standard"
+	"file" "rd-bio3-biogen_labs/office/divider/standard"
 	"origin" "1088 320 0"
 	editor
 	{
@@ -14051,7 +14051,7 @@ entity
 	"id" "6739"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office/divider/bottom"
+	"file" "rd-bio3-biogen_labs/office/divider/bottom"
 	"origin" "1152 256 0"
 	editor
 	{
@@ -14066,7 +14066,7 @@ entity
 	"id" "6793"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/office/divider/standard"
+	"file" "rd-bio3-biogen_labs/office/divider/standard"
 	"origin" "1088 576 0"
 	editor
 	{

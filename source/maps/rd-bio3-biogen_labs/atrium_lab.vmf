@@ -6882,7 +6882,7 @@ entity
 	"id" "14446"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium/window/angled/128"
+	"file" "rd-bio3-biogen_labs/atrium/window/angled/128"
 	"origin" "-128 0 32"
 	editor
 	{
@@ -6897,7 +6897,7 @@ entity
 	"id" "14449"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium/window/angled/64"
+	"file" "rd-bio3-biogen_labs/atrium/window/angled/64"
 	"origin" "-32 0 32"
 	editor
 	{
@@ -6912,7 +6912,7 @@ entity
 	"id" "14452"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/atrium/window/128x128"
+	"file" "rd-bio3-biogen_labs/atrium/window/128x128"
 	"origin" "0 -64 32"
 	editor
 	{
@@ -6927,7 +6927,7 @@ entity
 	"id" "14455"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/atrium/window/128x160"
+	"file" "rd-bio3-biogen_labs/atrium/window/128x160"
 	"origin" "0 -576 0"
 	editor
 	{
@@ -6942,7 +6942,7 @@ entity
 	"id" "14554"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/atrium/window/128x128"
+	"file" "rd-bio3-biogen_labs/atrium/window/128x128"
 	"origin" "0 -192 32"
 	editor
 	{
@@ -6957,7 +6957,7 @@ entity
 	"id" "14578"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/atrium/window/128x128"
+	"file" "rd-bio3-biogen_labs/atrium/window/128x128"
 	"origin" "0 -320 32"
 	editor
 	{
@@ -6972,7 +6972,7 @@ entity
 	"id" "14602"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium/window/angled/128"
+	"file" "rd-bio3-biogen_labs/atrium/window/angled/128"
 	"origin" "-256 0 32"
 	editor
 	{
@@ -6987,7 +6987,7 @@ entity
 	"id" "14626"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium/window/angled/128"
+	"file" "rd-bio3-biogen_labs/atrium/window/angled/128"
 	"origin" "-384 0 32"
 	editor
 	{
@@ -7002,7 +7002,7 @@ entity
 	"id" "14650"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium/window/angled/64"
+	"file" "rd-bio3-biogen_labs/atrium/window/angled/64"
 	"origin" "-480 0 32"
 	editor
 	{
@@ -7017,7 +7017,7 @@ entity
 	"id" "14752"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium/window/angled/64"
+	"file" "rd-bio3-biogen_labs/atrium/window/angled/64"
 	"origin" "-672 0 32"
 	editor
 	{
@@ -7032,7 +7032,7 @@ entity
 	"id" "14806"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/atrium/window/128x160"
+	"file" "rd-bio3-biogen_labs/atrium/window/128x160"
 	"origin" "0 -704 0"
 	editor
 	{
@@ -7047,7 +7047,7 @@ entity
 	"id" "14830"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "rd-biogen-3-labs/atrium/window/128x160"
+	"file" "rd-bio3-biogen_labs/atrium/window/128x160"
 	"origin" "0 -832 0"
 	editor
 	{

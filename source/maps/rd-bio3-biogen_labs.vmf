@@ -8340,7 +8340,7 @@ entity
 	"id" "66"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/security"
+	"file" "rd-bio3-biogen_labs/security"
 	"targetname" "security"
 	"origin" "2048 0 0"
 	editor
@@ -8356,7 +8356,7 @@ entity
 	"id" "133"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/security"
+	"file" "rd-bio3-biogen_labs/blockade/security"
 	"targetname" "blockade-security"
 	"origin" "2176 0 0"
 	editor
@@ -8468,7 +8468,7 @@ entity
 	"id" "430"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lobby"
+	"file" "rd-bio3-biogen_labs/lobby"
 	"targetname" "lobby"
 	"origin" "1504 448 0"
 	editor
@@ -8548,7 +8548,7 @@ entity
 	"id" "722"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium"
+	"file" "rd-bio3-biogen_labs/atrium"
 	"targetname" "atrium"
 	"origin" "608 1504 0"
 	editor
@@ -8628,7 +8628,7 @@ entity
 	"id" "926"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/control"
+	"file" "rd-bio3-biogen_labs/control"
 	"targetname" "control"
 	"origin" "1696 1376 0"
 	editor
@@ -8644,7 +8644,7 @@ entity
 	"id" "995"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/atrium_lab"
+	"file" "rd-bio3-biogen_labs/atrium_lab"
 	"targetname" "atrium_lab"
 	"origin" "1312 1376 0"
 	editor
@@ -8660,7 +8660,7 @@ entity
 	"id" "1017"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cave_lab"
+	"file" "rd-bio3-biogen_labs/cave_lab"
 	"targetname" "cave_lab"
 	connections
 	{
@@ -8680,7 +8680,7 @@ entity
 	"id" "1050"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cave_entry"
+	"file" "rd-bio3-biogen_labs/cave_entry"
 	"targetname" "cave_entry"
 	connections
 	{
@@ -8700,7 +8700,7 @@ entity
 	"id" "1078"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cave"
+	"file" "rd-bio3-biogen_labs/cave"
 	"targetname" "cave"
 	connections
 	{
@@ -8720,7 +8720,7 @@ entity
 	"id" "1100"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cave_pit"
+	"file" "rd-bio3-biogen_labs/cave_pit"
 	"targetname" "cave_pit"
 	"origin" "2976 4608 -144"
 	editor
@@ -8736,7 +8736,7 @@ entity
 	"id" "1214"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/atrium_south"
+	"file" "rd-bio3-biogen_labs/blockade/atrium_south"
 	"targetname" "blockade-atrium_south"
 	"origin" "1504 928 0"
 	editor
@@ -8752,7 +8752,7 @@ entity
 	"id" "1236"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/atrium_middle"
+	"file" "rd-bio3-biogen_labs/blockade/atrium_middle"
 	"targetname" "blockade-atrium_middle"
 	"origin" "1504 1312 0"
 	editor
@@ -8768,7 +8768,7 @@ entity
 	"id" "1261"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/atrium_west"
+	"file" "rd-bio3-biogen_labs/blockade/atrium_west"
 	"targetname" "blockade-atrium_west"
 	"origin" "608 1504 0"
 	editor
@@ -8784,7 +8784,7 @@ entity
 	"id" "3624"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/south"
+	"file" "rd-bio3-biogen_labs/south"
 	"targetname" "south"
 	"origin" "-768 768 0"
 	editor
@@ -8800,7 +8800,7 @@ entity
 	"id" "3646"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/dissection_big"
+	"file" "rd-bio3-biogen_labs/dissection_big"
 	"targetname" "dissection_big"
 	"origin" "-80 256 0"
 	editor
@@ -8816,7 +8816,7 @@ entity
 	"id" "3696"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/dissection_small"
+	"file" "rd-bio3-biogen_labs/dissection_small"
 	"targetname" "dissection_small"
 	"origin" "144 384 0"
 	editor
@@ -8832,7 +8832,7 @@ entity
 	"id" "3724"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/storage"
+	"file" "rd-bio3-biogen_labs/storage"
 	"targetname" "storage"
 	"origin" "448 768 0"
 	editor
@@ -8848,7 +8848,7 @@ entity
 	"id" "3749"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/sterilization"
+	"file" "rd-bio3-biogen_labs/sterilization"
 	"targetname" "sterilization"
 	"origin" "144 160 0"
 	editor
@@ -8864,7 +8864,7 @@ entity
 	"id" "3804"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lockers"
+	"file" "rd-bio3-biogen_labs/lockers"
 	"targetname" "lockers"
 	"origin" "-656 -160 0"
 	editor
@@ -8880,7 +8880,7 @@ entity
 	"id" "3826"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/central"
+	"file" "rd-bio3-biogen_labs/central"
 	"targetname" "central"
 	"origin" "-928 1536 0"
 	editor
@@ -8896,7 +8896,7 @@ entity
 	"id" "3845"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/servers"
+	"file" "rd-bio3-biogen_labs/servers"
 	"targetname" "servers"
 	"origin" "-160 1536 32"
 	editor
@@ -8912,7 +8912,7 @@ entity
 	"id" "3894"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/central_west"
+	"file" "rd-bio3-biogen_labs/blockade/central_west"
 	"targetname" "blockade-central_west"
 	"origin" "-768 1120 0"
 	editor
@@ -8928,7 +8928,7 @@ entity
 	"id" "3904"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/central_south"
+	"file" "rd-bio3-biogen_labs/blockade/central_south"
 	"targetname" "blockade-central_south"
 	"origin" "-160 800 0"
 	editor
@@ -8944,7 +8944,7 @@ entity
 	"id" "3911"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/central_north"
+	"file" "rd-bio3-biogen_labs/blockade/central_north"
 	"targetname" "blockade-central_north"
 	"origin" "-160 2176 0"
 	editor
@@ -8960,7 +8960,7 @@ entity
 	"id" "3957"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/office"
+	"file" "rd-bio3-biogen_labs/blockade/office"
 	"targetname" "blockade-office"
 	"origin" "448 2272 0"
 	editor
@@ -8976,7 +8976,7 @@ entity
 	"id" "4087"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer_lab"
+	"file" "rd-bio3-biogen_labs/freezer_lab"
 	"targetname" "freezer_lab"
 	"origin" "-768 2304 0"
 	editor
@@ -8992,7 +8992,7 @@ entity
 	"id" "4137"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/office"
+	"file" "rd-bio3-biogen_labs/office"
 	"targetname" "office"
 	connections
 	{
@@ -9012,7 +9012,7 @@ entity
 	"id" "4156"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/freezer"
+	"file" "rd-bio3-biogen_labs/freezer"
 	"targetname" "freezer"
 	"origin" "-768 3808 -160"
 	editor
@@ -9028,7 +9028,7 @@ entity
 	"id" "4187"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria"
+	"file" "rd-bio3-biogen_labs/cafeteria"
 	"targetname" "cafeteria"
 	"origin" "-928 1536 0"
 	editor
@@ -9044,7 +9044,7 @@ entity
 	"id" "4231"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/bathroom"
+	"file" "rd-bio3-biogen_labs/bathroom"
 	"targetname" "bathroom"
 	"origin" "-1888 2048 0"
 	editor
@@ -9060,7 +9060,7 @@ entity
 	"id" "4289"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/bedrooms"
+	"file" "rd-bio3-biogen_labs/bedrooms"
 	"targetname" "bedrooms"
 	"origin" "-1888 1024 0"
 	editor
@@ -9076,7 +9076,7 @@ entity
 	"id" "4308"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall"
+	"file" "rd-bio3-biogen_labs/lecture_hall"
 	"targetname" "lecture_hall"
 	connections
 	{
@@ -9096,7 +9096,7 @@ entity
 	"id" "4380"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/blockade/sterilization"
+	"file" "rd-bio3-biogen_labs/blockade/sterilization"
 	"targetname" "blockade-sterilization"
 	"origin" "144 128 0"
 	editor
@@ -9112,7 +9112,7 @@ entity
 	"id" "4426"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/crane"
+	"file" "rd-bio3-biogen_labs/crane"
 	"targetname" "crane"
 	"origin" "144 -1088 0"
 	editor
@@ -9128,7 +9128,7 @@ entity
 	"id" "4472"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/airlock"
+	"file" "rd-bio3-biogen_labs/airlock"
 	"targetname" "airlock"
 	"origin" "144 -800 0"
 	editor
@@ -9144,7 +9144,7 @@ entity
 	"id" "4497"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/pumps"
+	"file" "rd-bio3-biogen_labs/pumps"
 	"targetname" "pumps"
 	connections
 	{

@@ -6812,7 +6812,7 @@ entity
 	"id" "19"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/dissection/window/128"
+	"file" "rd-bio3-biogen_labs/dissection/window/128"
 	"replace01" "$color 81 131 172"
 	"origin" "-504 538 0"
 	editor
@@ -6829,7 +6829,7 @@ entity
 	"id" "22"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/dissection/window/128"
+	"file" "rd-bio3-biogen_labs/dissection/window/128"
 	"replace01" "$color 81 131 172"
 	"origin" "-360 538 0"
 	editor
@@ -6846,7 +6846,7 @@ entity
 	"id" "25"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/dissection/window/128"
+	"file" "rd-bio3-biogen_labs/dissection/window/128"
 	"replace01" "$color 81 131 172"
 	"origin" "-216 538 0"
 	editor
@@ -6863,7 +6863,7 @@ entity
 	"id" "28"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/dissection/window/128"
+	"file" "rd-bio3-biogen_labs/dissection/window/128"
 	"replace01" "$color 81 131 172"
 	"origin" "-72 538 0"
 	editor

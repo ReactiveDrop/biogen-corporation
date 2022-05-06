@@ -20263,7 +20263,7 @@ entity
 	"id" "3"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-536 544 -128"
 	editor
 	{
@@ -20279,7 +20279,7 @@ entity
 	"id" "6"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-464 544 -96"
 	editor
 	{
@@ -20295,7 +20295,7 @@ entity
 	"id" "9"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-392 544 -64"
 	editor
 	{
@@ -20311,7 +20311,7 @@ entity
 	"id" "12"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-320 544 -32"
 	editor
 	{
@@ -20327,7 +20327,7 @@ entity
 	"id" "15"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-320 -32 -32"
 	editor
 	{
@@ -20343,7 +20343,7 @@ entity
 	"id" "18"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-392 -32 -64"
 	editor
 	{
@@ -20359,7 +20359,7 @@ entity
 	"id" "21"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-464 -32 -96"
 	editor
 	{
@@ -20375,7 +20375,7 @@ entity
 	"id" "24"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/steps"
+	"file" "rd-bio3-biogen_labs/lecture_hall/steps"
 	"origin" "-536 -32 -128"
 	editor
 	{
@@ -20391,7 +20391,7 @@ entity
 	"id" "27"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/seats"
+	"file" "rd-bio3-biogen_labs/lecture_hall/seats"
 	"origin" "-536 96 -128"
 	editor
 	{
@@ -20407,7 +20407,7 @@ entity
 	"id" "30"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/seats"
+	"file" "rd-bio3-biogen_labs/lecture_hall/seats"
 	"origin" "-464 96 -96"
 	editor
 	{
@@ -20423,7 +20423,7 @@ entity
 	"id" "33"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/seats"
+	"file" "rd-bio3-biogen_labs/lecture_hall/seats"
 	"origin" "-392 96 -64"
 	editor
 	{
@@ -20439,7 +20439,7 @@ entity
 	"id" "36"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/seats"
+	"file" "rd-bio3-biogen_labs/lecture_hall/seats"
 	"origin" "-320 96 -32"
 	editor
 	{
@@ -22918,7 +22918,7 @@ entity
 	"id" "40604"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-704 672 -64"
 	editor
@@ -22935,7 +22935,7 @@ entity
 	"id" "40607"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-768 672 -64"
 	editor
@@ -22952,7 +22952,7 @@ entity
 	"id" "40613"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-832 672 -64"
 	editor
@@ -22969,7 +22969,7 @@ entity
 	"id" "40610"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-896 672 -64"
 	editor
@@ -22986,7 +22986,7 @@ entity
 	"id" "40688"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-960 608 128"
 	editor
@@ -23003,7 +23003,7 @@ entity
 	"id" "40601"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-896 736 128"
 	editor
@@ -23020,7 +23020,7 @@ entity
 	"id" "40598"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-832 736 128"
 	editor
@@ -23037,7 +23037,7 @@ entity
 	"id" "40595"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-768 736 128"
 	editor
@@ -23054,7 +23054,7 @@ entity
 	"id" "40518"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-704 736 128"
 	editor
@@ -23071,7 +23071,7 @@ entity
 	"id" "40682"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-960 672 128"
 	editor
@@ -23088,7 +23088,7 @@ entity
 	"id" "41430"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-960 32 128"
 	editor
@@ -23105,7 +23105,7 @@ entity
 	"id" "41400"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-960 -32 128"
 	editor
@@ -23122,7 +23122,7 @@ entity
 	"id" "41502"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-896 -32 -64"
 	editor
@@ -23139,7 +23139,7 @@ entity
 	"id" "41442"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-704 -32 -64"
 	editor
@@ -23156,7 +23156,7 @@ entity
 	"id" "41496"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-768 -32 -64"
 	editor
@@ -23173,7 +23173,7 @@ entity
 	"id" "41499"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-832 -32 -64"
 	editor
@@ -23190,7 +23190,7 @@ entity
 	"id" "41433"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 0.5"
 	"origin" "-960 32 -64"
 	editor
@@ -25179,7 +25179,7 @@ entity
 	"id" "41353"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "rd-biogen-3-labs/lecture_hall/light_panel"
+	"file" "rd-bio3-biogen_labs/lecture_hall/light_panel"
 	"replace01" "$brightness 255 149 85 1"
 	"origin" "-960 608 -64"
 	editor

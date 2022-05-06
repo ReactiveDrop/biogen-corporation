@@ -27504,7 +27504,7 @@ entity
 	"id" "34385"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-304 -224 0"
 	editor
 	{
@@ -27747,7 +27747,7 @@ entity
 	"id" "35179"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-144 -224 0"
 	editor
 	{
@@ -27762,7 +27762,7 @@ entity
 	"id" "35194"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-464 -224 0"
 	editor
 	{
@@ -27777,7 +27777,7 @@ entity
 	"id" "35224"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-624 -224 0"
 	editor
 	{
@@ -28140,7 +28140,7 @@ entity
 	"id" "35611"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-144 218 0"
 	editor
 	{
@@ -28155,7 +28155,7 @@ entity
 	"id" "35614"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-304 218 0"
 	editor
 	{
@@ -28170,7 +28170,7 @@ entity
 	"id" "35617"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-464 218 0"
 	editor
 	{
@@ -28185,7 +28185,7 @@ entity
 	"id" "35620"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/cafeteria/window/128x160"
+	"file" "rd-bio3-biogen_labs/cafeteria/window/128x160"
 	"origin" "-624 218 0"
 	editor
 	{

@@ -11793,7 +11793,7 @@ entity
 	"id" "9321"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/servers/fan"
+	"file" "rd-bio3-biogen_labs/servers/fan"
 	"replace01" "$speed"
 	"origin" "0 0 0"
 	editor
@@ -11809,7 +11809,7 @@ entity
 	"id" "9368"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/servers/fan"
+	"file" "rd-bio3-biogen_labs/servers/fan"
 	"replace01" "$speed 40"
 	"origin" "0 0 -192"
 	editor
@@ -11825,7 +11825,7 @@ entity
 	"id" "9386"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "rd-biogen-3-labs/servers/fan"
+	"file" "rd-bio3-biogen_labs/servers/fan"
 	"replace01" "$speed 51"
 	"origin" "0 0 -384"
 	editor
