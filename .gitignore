@@ -4,6 +4,9 @@
 *.prt
 *.vmx
 
+# Krita
+*.kra~
+
 # Local Development Map
 source/maps/dev.vmf
 source/maps/dev/**
